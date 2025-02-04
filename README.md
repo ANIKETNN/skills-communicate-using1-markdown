@@ -1,5 +1,5 @@
 <header>
-###this is h3
+
 <!--
   <<< Author notes: Course header >>>
   Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
@@ -8,7 +8,8 @@
 -->
 
 # Communicate using Markdown
-
+###this is h3
+*aniket*
 _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
 
 </header>
