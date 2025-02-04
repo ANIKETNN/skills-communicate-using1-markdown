@@ -1,5 +1,5 @@
 <header>
-Hi This is **Aniket**
+
 <!--
   <<< Author notes: Course header >>>
   Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
@@ -12,7 +12,7 @@ Hi This is **Aniket**
 _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
 
 </header>
-
+Hi This is **Aniket**
 <!--
   <<< Author notes: Step 1 >>>
   Choose 3-5 steps for your course.
